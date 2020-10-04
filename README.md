@@ -7,3 +7,6 @@ pip install PyPDF2
 
 ## Usage
 Usage: stonebutchblues2kobo.py inputfile.pdf outputfile.pdf
+
+## License
+GNU General Public License v3.0
