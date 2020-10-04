@@ -3,4 +3,4 @@ A script that makes Stone Butch Blues by esteemed queer author Leslie Feinberg r
 Must install PyPDF library prior to use:
 pip install PyPDF2
 
-Usage: stonebutchblues2kobo.py <name of input file> <name of output file>
+Usage: stonebutchblues2kobo.py inputfile.pdf outputfile.pdf
